@@ -34,4 +34,4 @@ The goal is to identify sales patterns, top-selling titles, and market trends to
 
 ---
 
-📂 [Explora el Notebook aquí](./cuaderno-2.ipynb)
+📂 [Explora el Notebook aquí](notebook-2.ipynb)
